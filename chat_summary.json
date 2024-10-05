@@ -6,5 +6,11 @@
         "timestamp": "1728163874",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a form for submitted crypto swap txns to uniswap.. be very thorough",
+        "timestamp": "05102024214542",
+        "message_id": "guest05102024214541"
     }
 ]
