@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a user-friendly form for entering swap transaction details\", \"checked\": true}, {\"feature\": \"Include a summary section that displays the current transaction details before submission\", \"checked\": true}, {\"feature\": \"Implement validation checks for input fields to prevent incorrect data entry\", \"checked\": true}, {\"feature\": \"Add a confirmation modal after form submission to ensure accuracy\", \"checked\": false}, {\"feature\": \"Integrate a real-time status display for pending and completed swaps\", \"checked\": false}, {\"feature\": \"Provide an option to save frequently used transaction templates\", \"checked\": false}], \"input_token_count\": 262, \"output_token_count\": 137, \"time_taken\": \"0:00:01.534149\"}",
+        "message_id": "guest05102024214541",
+        "timestamp": "05102024214549",
+        "component_file_name": "blank_component_1728164708",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want included in the form for the crypto swap transactions?\", \"option1\": \"Amount of cryptocurrency to swap\", \"option2\": \"Transaction ID or reference number\"}, {\"question 2\": \"How would you like the form to be styled or organized for better user experience?\", \"option1\": \"Single-column layout for simplicity\", \"option2\": \"Multi-step form for clarity and guidance\"}], \"input_token_count\": 308, \"output_token_count\": 99, \"time_taken\": \"0:00:02.007603\"}",
         "message_id": "guest05102024214541",
