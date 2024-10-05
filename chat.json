@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm thoroughly working on adding the form for submitted crypto swap transactions to Uniswap.",
+        "message_id": "guest05102024214541",
+        "timestamp": "05102024214543",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form for submitted crypto swap txns to uniswap.. be very thorough",
         "message_id": "guest05102024214541",
